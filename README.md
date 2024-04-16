@@ -2,7 +2,7 @@
 Spring 2024  
 Nicholas Payson, Abhishek Rao, Meng-Hsien (Joey) Tsai, Zakir Makhani  
 
-Files:
+Files:  
 PlayableVersion : jupyter notebook file that when run, allows a player (possibly only on Windows) to drive in the environment with WASD.  
 car_dynamics : environment code (based off CarRacing-v2 from gymnasium, with our own additions)  
 car_racing :  environment code (based off CarRacing-v2 from gymnasium, with our own additions)  
