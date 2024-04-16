@@ -3,7 +3,7 @@ Spring 2024
 Nicholas Payson, Abhishek Rao, Meng-Hsien (Joey) Tsai, Zakir Makhani
 
 Files:
-PlayableVersion : jupyter notebook file that when run, allows a player (possibly only on Windows) to drive in the environment with WASD.
+PlayableVersion : jupyter notebook file that when run, allows a player (possibly only on Windows) to drive in the environment with WASD. \n
 car_dynamics : environment code (based off CarRacing-v2 from gymnasium, with our own additions)
 car_racing :  environment code (based off CarRacing-v2 from gymnasium, with our own additions)
 td3_car : jupyter notebook file that when run, trains the TD3 model
